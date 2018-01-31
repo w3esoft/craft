@@ -1,13 +1,13 @@
-// stdafx.h : arquivo de inclusão para inclusões do sistema padrão,
-// ou inclusões específicas de projeto que são utilizadas frequentemente, mas
-// são modificadas raramente
+// stdafx.h : include file for standard system include files,
+// or project specific include files that are used frequently, but
+// are changed infrequently
 //
 
 #pragma once
 
 #include "targetver.h"
 
-// Cabeçalhos para CppUnitTest
+// Headers for CppUnitTest
 #include "CppUnitTest.h"
 
-// TODO: referencie os cabeçalhos adicionais de que seu programa precisa aqui
+// TODO: reference additional headers your program requires here

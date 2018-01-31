@@ -1,8 +1,8 @@
 #pragma once
 
-// Incluir SDKDDKVer.h define a plataforma Windows mais alta disponível.
+// Including SDKDDKVer.h defines the highest available Windows platform.
 
-// Se você deseja compilar seu aplicativo para uma plataforma anterior do Windows, inclua WinSDKVer.h e
-// defina a macro _WIN32_WINNT para a plataforma que terá seu suporte antes de incluir SDKDDKVer.h.
+// If you wish to build your application for a previous Windows platform, include WinSDKVer.h and
+// set the _WIN32_WINNT macro to the platform you wish to support before including SDKDDKVer.h.
 
 #include <SDKDDKVer.h>

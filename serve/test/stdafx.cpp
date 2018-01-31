@@ -1,8 +1,8 @@
-// stdafx.cpp : arquivo de origem que contém apenas as inclusões padrões
-// UnitTest1.pch será o cabeçalho pré-compilado
-// stdafx.obj conterá as informações de tipo pré-compiladas
+// stdafx.cpp : source file that includes just the standard includes
+// test.pch will be the pre-compiled header
+// stdafx.obj will contain the pre-compiled type information
 
 #include "stdafx.h"
 
-// TODO: referencie qualquer cabeçalho adicional necessário em STDAFX.H
-// e não neste arquivo
+// TODO: reference any additional headers you need in STDAFX.H
+// and not in this file
